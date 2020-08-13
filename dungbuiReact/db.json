@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "author": "dung bui 2",
+      "title": "dung bui dep trai 2",
+      "id": 1
+    },
+    {
+      "author": "asdasd",
+      "title": "asdas",
+      "id": 2
+    },
+    {
+      "author": "asdasd",
+      "title": "asdasd",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  },
+  "profile": {
+    "name": "typicode"
+  }
+}
